@@ -1,1 +1,1 @@
-# repo para proyecto php con git
+<b>Repositorio para pruebas con php y git (1)</b>
